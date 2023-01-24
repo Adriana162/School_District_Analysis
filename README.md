@@ -13,13 +13,16 @@ keeping the rest of the data intact.
 - The overall passing percentage lowered by about one percent after the ninth graders scores were replaced with NaNs for the disctrict summary . 
 
 - The overall passing for Thomas High School summary is 90%, but it lowered to 65% after the scores were replaced.
+
    Before:
 
-  *  ![before_nan_summary.PNG](/resources/before_nan_summary.PNG)
+  *  
+  ![before_nan_summary.PNG](/resources/before_nan_summary.PNG)
 
    After:
   
-  *  ![after_nan_summary.PNG](/resources/after_nan_summary.PNG)
+  *  
+  ![after_nan_summary.PNG](/resources/after_nan_summary.PNG)
 
 - The reading score for Thomas High School became one of the lowest compared to the other schools. The math scores became similiar to other
 schools. 
