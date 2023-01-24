@@ -14,12 +14,12 @@ keeping the rest of the data intact.
 
 - The overall passing for Thomas High School summary is 90%, but it lowered to 65% after the scores were replaced.
 
-   *Before:
+  * Before:
 
   
   ![before_nan_summary.PNG](/Resources/before_nan_summary.PNG)
 
-   *After:
+  * After:
   
    
   ![after_nan_summary.PNG](/Resources/after_nan_summary.PNG)
